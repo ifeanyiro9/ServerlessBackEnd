@@ -1,4 +1,4 @@
-# **Serverless BackEnd**
+# **Python Automated Serverless BackEnd**
 ## Alyx's Coffee Haven Serverless Backend
 
 This repository contains the code and instructions to set up a basic serverless backend for Alyx's Coffee Haven. Alyx wants to create an API for her coffee shop's orders and test its functionality using Postman before building a frontend application.
