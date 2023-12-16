@@ -60,7 +60,7 @@ def create_iam_role():
 
     print("IAM role created and policies attached:")
     print("Role ARN:", role_arn)
-    return role_arn
+    return role_arn, role_name
 
 
 def create_lambda_function(role_arn, function_name, zip_file_path):
